@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="16" Y="21"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="25">
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="130" Column="19" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="123" Column="40" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="120" Column="32" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="122" Column="32" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="134" Column="14" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="135" Column="13" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="122" Column="26" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="80" Column="22" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="128" Column="9" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="144" Column="23" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="139" Column="23" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="141" Column="14" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="143" Column="6" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="122" Column="13" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="134" Column="12" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="137" Column="8" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="134" Column="12" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="41" Column="25" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="42" Column="55" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="145" Column="34" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="149" Column="26" TopLine="123"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="161" Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="157" Column="26" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="88" Column="92" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="80" Column="16" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="gestion_assurance_auto3.lpr"/>
+        <Caret Line="11" Column="27"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
